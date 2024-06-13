@@ -4,5 +4,7 @@ estrellaxd/auto_bangumi
 qdtoday/qd
 xiaoyaliu/alist
 xiaoyaliu/glue
+resilio/sync
+amilys/embyserver
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
