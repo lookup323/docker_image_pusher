@@ -6,4 +6,4 @@ xiaoyaliu/alist
 xiaoyaliu/glue
 resilio/sync
 amilys/embyserver
-emby/embyserver
+emby/embyserver:4.8.0.56
